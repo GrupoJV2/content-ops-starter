@@ -11,7 +11,7 @@ sections:
     text: |
       Un proyecto de residencias modernas.
     actions:
-      - label: See Tutorials
+      - label: See Tutorial
         altText: ''
         url: /
         showIcon: true

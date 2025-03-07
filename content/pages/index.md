@@ -90,6 +90,7 @@ sections:
           hideLabel: false
           placeholder: Your message
           width: full
+          isRequired: false
       submitButton:
         type: SubmitButtonFormControl
         label: Submit

@@ -87,7 +87,7 @@ sections:
         - type: TextareaFormControl
           name: message
           label: Comentario
-          hideLabel: true
+          hideLabel: false
           placeholder: Your message
           width: full
       submitButton:

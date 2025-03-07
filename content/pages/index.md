@@ -73,7 +73,7 @@ sections:
         - type: TextareaFormControl
           name: Celular
           label: Your phone number
-          hideLabel: true
+          hideLabel: false
           placeholder: Your message
           isRequired: false
           width: full

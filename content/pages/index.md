@@ -54,7 +54,7 @@ sections:
       type: TitleBlock
       text: CONTÁCTANOS
       color: text-dark
-    subtitle: UN DESARROLLO DE GRUPO JV
+    subtitle: Un desarrollo de Grupo JV
     text: |
       Forma parte de la lista exclusiva para recibir la información.
     actions: []

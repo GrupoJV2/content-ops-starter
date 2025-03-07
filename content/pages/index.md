@@ -66,7 +66,7 @@ sections:
         - type: TextFormControl
           name: name
           label: Name
-          hideLabel: true
+          hideLabel: false
           placeholder: Your name
           isRequired: true
           width: full

@@ -106,7 +106,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Contact Us
+      label: CONT
       color: text-primary
     colors: bg-light-fg-dark
   - title: Divider

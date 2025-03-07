@@ -33,7 +33,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: /images/0002_D_V04 copy..jpg
+      url: /images/abstract-feature1.svg
     badge:
       label: BASÂLTICA
       color: text-primary

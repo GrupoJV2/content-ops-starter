@@ -72,7 +72,7 @@ sections:
           width: full
         - type: TextareaFormControl
           name: Celular
-          label: Message
+          label: Your phone number
           hideLabel: true
           placeholder: Your message
           isRequired: false

@@ -75,7 +75,7 @@ sections:
           label: Celular / Teléfono
           hideLabel: false
           placeholder: Your phone number
-          isRequired: false
+          isRequired: true
           width: full
         - type: EmailFormControl
           name: email

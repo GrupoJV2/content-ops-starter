@@ -70,6 +70,13 @@ sections:
           placeholder: Your name
           isRequired: true
           width: full
+        - type: TextareaFormControl
+          name: Celular
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          isRequired: false
+          width: full
         - type: EmailFormControl
           name: email
           label: Email

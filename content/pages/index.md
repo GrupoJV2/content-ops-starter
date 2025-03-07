@@ -74,7 +74,7 @@ sections:
           name: Celular
           label: Your phone number
           hideLabel: false
-          placeholder: Your message
+          placeholder: Your phone number
           isRequired: false
           width: full
         - type: EmailFormControl

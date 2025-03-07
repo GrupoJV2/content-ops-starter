@@ -55,8 +55,8 @@ sections:
       text: CONTÁCTANOS
       color: text-dark
     subtitle: UN DESARROLLO DE GRUPO JV
-    text: |2
-               
+    text: |
+      Forma parte de la lista exclusiva para recibir la información.
     actions: []
     media:
       type: FormBlock

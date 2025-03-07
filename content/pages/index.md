@@ -106,7 +106,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: CONT
+      label: ''
       color: text-primary
     colors: bg-light-fg-dark
   - title: Divider
